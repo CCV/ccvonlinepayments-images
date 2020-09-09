@@ -1,0 +1,7 @@
+{
+  "name": "ccvonlinepayments/images",
+  "description": "CCVOnlinePayments images",
+  "homepage": "https://www.ccvshop.nl/ccv-online-payments",
+  "type": "library",
+  "version": "1.0"
+}
