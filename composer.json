@@ -1,7 +1,7 @@
 {
-  "name": "ccvonlinepayments/images",
+  "name": "ccv/images",
   "description": "CCVOnlinePayments images",
-  "homepage": "https://www.ccvshop.nl/ccv-online-payments",
+  "homepage": "https://www.ccv.eu/nl/betaaloplossingen/betaaloplossingen-online/ccv-online-payments/",
   "type": "library",
-  "version": "1.0"
+  "version": "1.1"
 }
