@@ -1,7 +1,9 @@
 {
   "name": "ccv/images",
-  "description": "CCVOnlinePayments images",
-  "homepage": "https://www.ccv.eu/nl/betaaloplossingen/betaaloplossingen-online/ccv-online-payments/",
+  "description": "Payment resources library used by the official CCV Payment Services plugins",
+  "keywords": ["library", "resources", "payments", "ccv"],
+  "homepage": "https://github.com/CCV/ccvonlinepayments-images",
   "type": "library",
-  "version": "1.1"
+  "version": "1.1.1",
+  "license": "MIT"
 }
