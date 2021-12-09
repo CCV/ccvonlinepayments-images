@@ -4,6 +4,6 @@
   "keywords": ["library", "resources", "payments", "ccv"],
   "homepage": "https://github.com/CCV/ccvonlinepayments-images",
   "type": "library",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "license": "MIT"
 }
